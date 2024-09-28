@@ -1,5 +1,3 @@
-
-# custom data structure to hold the state of an HSV filter
 class HsvFilter:
 
     def __init__(self, hMin=None, sMin=None, vMin=None, hMax=None, sMax=None, vMax=None, 
